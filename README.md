@@ -8,3 +8,4 @@ I'll add an English self-introduction next time.
 - 📫 お問合せ先：GMail：jadec.eight@gmail.com  Twitter:@Lua_Jadec
 - 😄 代名詞：えいと, はち, くそクリーパー
 - ⚡ 面白い事実: これはDragon-Kサーバーにいたnezuuさんのリポジトリからほぼそのまま持ってきたものである、
+- 最近Electronに手を出しました
