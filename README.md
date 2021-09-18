@@ -10,4 +10,3 @@ I'll add an English self-introduction next time.
 - ⚡ 面白い事実: これはDragon-Kサーバーにいたnezuuさんのリポジトリからほぼそのまま持ってきたものである、
 - 最近Electronに手を出しました
 - リア友がかってにgithub偏差値を出してた: 54
-- 最近本名がさらされました
