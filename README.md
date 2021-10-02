@@ -9,4 +9,4 @@ I'll add an English self-introduction next time.
 - 😄 代名詞：えいと, はち, くそクリーパー
 - ⚡ 面白い事実: これはDragon-Kサーバーにいたnezuuさんのリポジトリからほぼそのまま持ってきたものである、
 - 最近Electronに手を出しました
-- リア友がかってにgithub偏差値を出してた: 56
+- リア友がかってにgithub偏差値を出してた: 53
