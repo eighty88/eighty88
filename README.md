@@ -8,5 +8,4 @@ I'll add an English self-introduction next time.
 - 📫 お問合せ先：GMail: jadec.eight@gmail.com
 - 😄 代名詞: えいと, はち, くそクリーパー
 - ⚡ 面白い事実: これはDragon-Kサーバーにいたnezuuさんのリポジトリからほぼそのまま持ってきたものである、
-- 最近Electronに手を出しました
 - リア友がかってにgithub偏差値を出してた: 49
