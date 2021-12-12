@@ -8,3 +8,8 @@ I'll add an English self-introduction next time.
 - 📫 お問合せ先：GMail: jadec.eight@gmail.com
 - 😄 代名詞: えいと, はち
 - ⚡ 面白い事実: これはDragon-Kサーバーにいたnezuuさんのリポジトリからほぼそのまま持ってきたものである、
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eighty88&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eighty88)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=eighty88)](https://github.com/ryo-ma/github-profile-trophy)
