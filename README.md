@@ -5,7 +5,7 @@ So I'm sorry if it's hard to read.
 I'll add an English self-introduction next time.
 
 - 🔭 愛用プログラミング言語: Typescript(Node.js, React.js, Next.js), Java, C, C++(&VC++), C#, VB, COBOL, SQL, Kotlin
-- 使えるプログラミング言語: 上のやつ, PHP, Javascript, Objective-C, Swift
+- 使えるプログラミング言語: 上のやつ, PHP, Javascript, Objective-C, Swift, ｱｾﾝﾌﾞﾘ
 - 📫 お問合せ先：GMail: jadec.eight@gmail.com
 - 😄 代名詞: えいと, はち
 - ⚡ 面白い事実: これはDragon-Kサーバーにいたnezuuさんのリポジトリからほぼそのまま持ってきたものである。
