@@ -6,7 +6,7 @@ I'll add an English self-introduction next time.
 
 - 🔭 愛用プログラミング言語: Typescript(Node.js, React.js, Next.js), Java, C, C++(&VC++), C#, VB, COBOL, SQL, Kotlin, ｱｾﾝﾌﾞﾘ
 - 使えるプログラミング言語: 上のやつ, PHP, Javascript, Objective-C, Swift, Shell Script
-- 😄 代名詞: えいと, はち
+- 😄 代名詞: えいと, はち, l
 - ⚡ 面白い事実: これはDragon-Kサーバーにいたnezuuさんのリポジトリからほぼそのまま持ってきたものである。
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eighty88&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
